@@ -1,0 +1,9 @@
+/* Esto es el estilo del main  */
+html, body{
+    background-color: gray;
+}
+
+img{
+    padding-top: 50px;
+    padding-left: 50px;
+}
